@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "951050384067",
+    "project_id": "kesehatan-project",
+    "storage_bucket": "kesehatan-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951050384067:android:3bd5526c71040dbe60e876",
+        "android_client_info": {
+          "package_name": "com.example.project_kesehatan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZQUI-Up2Cb46p-tw5ePxwO1VH1NCuxr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
